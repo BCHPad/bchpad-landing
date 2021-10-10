@@ -1,0 +1,22 @@
+.feature {
+  margin: 50px;
+}
+
+.feature h3 {
+  color: white;
+  font-size: x-large;
+  margin: 0%;
+}
+
+.feature p {
+  margin: 0%;
+}
+
+.featureIcon {
+  font-size: 60px;
+  margin-bottom: 10px;
+}
+
+.features-ul {
+  text-align: center !important;
+}
